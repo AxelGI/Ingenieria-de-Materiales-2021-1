@@ -1,0 +1,146 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(229,229,229,0.75), rgba(229,229,229,0.75)), url("images/3f43d9a715f20c3df53e3cea462373d46a496dac07f8a19a45a3d52b4d902d139315418d41027d7493e1a9d08c9f5a40e20b406d5a6f65643de44a_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 883px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  font-weight: 700;
+  margin: 141px 399px 0 56px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin: 19px 56px 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin: 30px 56px 60px;
+}
+
+.u-section-1 .u-btn-1 {
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 728px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 46px;
+    margin-right: 255px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 46px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 46px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 558px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 35px;
+    margin-right: 35px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 35px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 35px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 419px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 26px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 26px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 26px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 264px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    margin-left: 16px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 16px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 16px;
+  }
+}.u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 294px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 60px 60px 0;
+}
+
+.u-section-2 .u-btn-1 {
+  font-size: 1.875rem;
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 20px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    width: 680px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    width: 340px;
+  }
+}
